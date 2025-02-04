@@ -1,6 +1,6 @@
 # EngBicir
-<h1>Hi 👋, I'm </h1>
-<p>A passionate frontend developer from </p>
+<h1>Hi 👋, I'm Bicir</h1>
+<p>A passionate full-stack developer </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
@@ -28,9 +28,7 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://twitter.com/https://www.linkedin.com/in/abdifitaah-mohamed-59b6052b9/" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/EngBicir.so1" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=&show_icons=true&locale=en" alt="" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=&" alt="" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=&show_icons=true&locale=en&layout=compact" alt="" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=" alt="" /></a></p>
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=EngBicir1&show_icons=true&locale=en" alt="EngBicir1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EngBicir1&" alt="EngBicir1" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=EngBicir1&show_icons=true&locale=en&layout=compact" alt="EngBicir1" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EngBicir1" alt="EngBicir1" /></a></p>
