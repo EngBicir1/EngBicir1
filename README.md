@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hello, I'm EngBicir.<br>I’m a full-stack developer. Currently, I’m not working, but I enjoy coding and tackling new challenges.
+Hello, I'm Bicir.<br>
+I’m a full-stack developer passionate about building end-to-end web applications.<br>
+I enjoy coding, solving real-world problems, and constantly learning new technologies.
+
 
 #
 ## 🌐 Socials:
