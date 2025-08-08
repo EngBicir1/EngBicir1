@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello, I'm Bicir.<br>
-I’m a full-stack developer passionate about building end-to-end web applications.<br>
-I enjoy coding, solving real-world problems, and constantly learning new technologies.
+I’m a full-stack developer.<br>
+I enjoy coding and tackling new challenges.
 
 
 #
