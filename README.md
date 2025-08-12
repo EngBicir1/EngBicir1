@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello, I'm Bicir.<br>
 I’m a full-stack developer.<br>
-I enjoy coding and tackling new challenges.
+I enjoy coding and tackling new challenges..
 
 
 #
