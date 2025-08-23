@@ -18,20 +18,25 @@
 
 - ⚡ Fun fact **I can’t code without coffee ☕**
 
+<!-- 📊 GitHub Stats (Pink, aligned nicely) -->
+<h2 align="center">📊 GitHub Stats</h2>
 
-<!-- Stats -->
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EngBicir1&theme=rose_pine&hide_border=true&show_icons=true&count_private=true" width="55%" /> 
-  <br>
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=EngBicir1&show_icons=true&count_private=true&hide_border=true&theme=rose_pine" width="420" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=EngBicir1&theme=rose_pine&hide_border=true" width="420" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=EngBicir1&theme=rose_pine&hide_border=true" width="55%" /> 
-  <br>
+<br/>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngBicir1&theme=rose_pine&hide_border=true&layout=compact&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngBicir1&layout=compact&langs_count=8&hide_border=true&theme=rose_pine" width="700" />
 
 </div>
 
