@@ -5,6 +5,19 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=engbicir1&label=Profile%20views&color=0e75b6&style=flat" alt="engbicir1" /> </p>
+
+- 🔭 I’m currently working on **MERN Stack & Mobile App Projects**
+
+- 🌱 I’m currently learning **Frameworks & AI**
+
+- 💬 Ask me about MERN Stack & Mobile App Development **React, Node.js, MongoDB, Firebase and Flutter**
+
+- 📫 How to reach me: **yuusufmoharaage@gmail.com**
+
+- ⚡ Fun fact **I can’t code without coffee ☕**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/engabdifitah23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="engabdifitah23" height="30" width="40" /></a>
