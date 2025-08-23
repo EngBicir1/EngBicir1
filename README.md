@@ -6,18 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engbicir1&label=Profile%20views&color=0e75b6&style=flat" alt="engbicir1" /> </p>
 
-- 🔭 I’m currently working on **MERN Stack & Mobile App Projects**
-
-- 🌱 I’m currently learning **Frameworks & AI**
-
-- 💬 Ask me about MERN Stack & Mobile App Development **React, Node.js, MongoDB, Firebase and Flutter**
-
-- 📫 How to reach me: **yuusufmoharaage@gmail.com**
-
-- ⚡ Fun fact **I can’t code without coffee ☕**
-<br><br>
 <!-- 📊 GitHub Stats (Pink, aligned nicely) -->
 <h2 align="center">📊🚀 My GitHub Journey</h2>
 
@@ -39,6 +28,20 @@
 
 
 </p>
+<br><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=engbicir1&label=Profile%20views&color=0e75b6&style=flat" alt="engbicir1" /> </p>
+
+- 🔭 I’m currently working on **MERN Stack & Mobile App Projects**
+
+- 🌱 I’m currently learning **Frameworks & AI**
+
+- 💬 Ask me about MERN Stack & Mobile App Development **React, Node.js, MongoDB, Firebase and Flutter**
+
+- 📫 How to reach me: **yuusufmoharaage@gmail.com**
+
+- ⚡ Fun fact **I can’t code without coffee ☕**
+<br><br>
+
 
 <!-- Tech Stack -->
 <h3 align="left">Languages and Tools:</h3>
