@@ -1,5 +1,8 @@
+https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
+
 <h1 align="center">Hi 👋, I'm Bicir</h1>
 <h3 align="center">Full-Stack (MERN) & Mobile Developer passionate about solving real problems</h3>
+https://images.search.yahoo.com/images/view;_ylt=AwrNPD6Jkalo7nYyDFSJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzMwZmE0ZDJhYmNjMWNmOTY2NGRhNDY0ZDdiZDMwYjU3BGdwb3MDNwRpdANiaW5n?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Danimated%2Bcoding%2Bgif%26fr%3Dyhs-invalid%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D7&w=675&h=557&imgurl=www.simontechway.com%2Fwp-content%2Fuploads%2F2020%2F04%2Fdev-gif.gif&rurl=https%3A%2F%2Fgithub.com%2FLingisetty47764&size=1260KB&p=animated+coding+gif&oid=30fa4d2abcc1cf9664da464d7bd30b57&fr2=piv-web&fr=yhs-invalid&tt=Lingisetty47764+%28LINGISETTY+SRI+HARI%29+%C2%B7+GitHub&b=0&ni=21&no=7&ts=&tab=organic&sigr=bqjOZec7XV_x&sigb=HX7129Rkvl8e&sigi=OSs5O5iPKBgf&sigt=AW7as19HF8Ze&.crumb=b5NRSk0blsG&fr=yhs-invalid&fr2=piv-web
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engbicir1&label=Profile%20views&color=0e75b6&style=flat" alt="engbicir1" /> </p>
 
@@ -31,4 +34,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=engbicir1&show_icons=true&locale=en&layout=compact" alt="engbicir1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engbicir1&" alt="engbicir1" /></p>
-
