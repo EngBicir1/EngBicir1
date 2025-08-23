@@ -35,9 +35,6 @@
 </table>
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngBicir1&layout=compact&langs_count=8&hide_border=true&theme=rose_pine" width="300" />
-
 </div>
 
 
