@@ -1,4 +1,4 @@
-https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif
+https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F4zh2hgl46cp51.png%3Fwidth%3D3325%26format%3Dpng%26auto%3Dwebp%26s%3Db9123bff12e1d5b86248d27a059104b4c92e05b5
 
 <h1 align="center">Hi 👋, I'm Bicir</h1>
 <h3 align="center">Full-Stack (MERN) & Mobile Developer passionate about solving real problems</h3>
