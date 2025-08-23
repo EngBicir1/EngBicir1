@@ -19,7 +19,7 @@
 - ⚡ Fun fact **I can’t code without coffee ☕**
 <br><br>
 <!-- 📊 GitHub Stats (Pink, aligned nicely) -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊🚀 My GitHub Journey</h2>
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngBicir1&layout=compact&langs_count=8&hide_border=true&theme=rose_pine" width="300" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngBicir1&layout=compact&langs_count=8&hide_border=true&theme=rose_pine" width="300" />
 
 </div>
 
