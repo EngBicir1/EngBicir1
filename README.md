@@ -4,3 +4,5 @@
 <h3 align="center">Full-Stack (MERN) & Mobile Developer passionate about solving real problems</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+![Snake animation](https://github.com/EngBicir1/EngBicir1/blob/output/github-snake.svg)
