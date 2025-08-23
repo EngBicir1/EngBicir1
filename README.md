@@ -40,13 +40,6 @@
 
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/engabdifitah23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="engabdifitah23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://so.linkedin.com/in/abdifitaah-mohamed-59b6052b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://so.linkedin.com/in/abdifitaah-mohamed-59b6052b9" height="30" width="40" /></a>
-<a href="https://fb.com/engbicir.so1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="engbicir.so1" height="30" width="40" /></a>
-<a href="https://instagram.com/engbicir1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="engbicir1" height="30" width="40" /></a>
-
 
 </p>
 
