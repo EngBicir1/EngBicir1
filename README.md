@@ -85,7 +85,7 @@
   <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 </p>
-<img align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngBicir1&layout=compact&langs_count=8&hide_border=true&theme=rose_pine" width="300" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngBicir1&layout=compact&langs_count=8&hide_border=true&theme=rose_pine" width="300" />
 </div>
 
 
