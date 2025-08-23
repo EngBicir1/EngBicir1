@@ -18,6 +18,8 @@
 
 - ⚡ Fun fact **I can’t code without coffee ☕**
 
+<br><br>
+<br><br>
 <!-- 📊 GitHub Stats (Pink, aligned nicely) -->
 <h2 align="center">📊 GitHub Stats</h2>
 
