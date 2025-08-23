@@ -4,8 +4,7 @@
 <h3 align="center">Full-Stack (MERN) & Mobile Developer passionate about solving real problems</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-<h1 align="center">Hi 👋, I'm Bicir</h1>
-<h3 align="center">Full-Stack (MERN) & Mobile Developer passionate about solving real problems</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engbicir1&label=Profile%20views&color=0e75b6&style=flat" alt="engbicir1" /> </p>
 
@@ -39,5 +38,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engbicir1&show_icons=true&locale=en" alt="engbicir1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engbicir1&" alt="engbicir1" /></p>
+
+
+
+
+
+
+
+
 
 ![Snake animation](https://github.com/EngBicir1/EngBicir1/blob/output/github-snake.svg)
