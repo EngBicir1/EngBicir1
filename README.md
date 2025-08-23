@@ -21,10 +21,20 @@
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngBicir1&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngBicir1&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngBicir1&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=EngBicir1&theme=rose_pine&hide_border=true&show_icons=true&count_private=true" width="55%" /> 
+  <br>
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EngBicir1&theme=rose_pine&hide_border=true" width="55%" /> 
+  <br>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngBicir1&theme=rose_pine&hide_border=true&layout=compact&langs_count=8" width="40%" />
+
 </div>
+
 
 
 <h3 align="left">Connect with me:</h3>
