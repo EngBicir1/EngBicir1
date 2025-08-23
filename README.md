@@ -45,6 +45,12 @@
 </div>
 
 
+<!-- Visit Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
+
 
 
 ![Snake animation](https://github.com/EngBicir1/EngBicir1/blob/output/github-snake.svg)
