@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, I'm Bicir</h1>
+<h3 align="center">Full-Stack (MERN) & Mobile Developer passionate about solving real problems</h3>
+https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engbicir1&label=Profile%20views&color=0e75b6&style=flat" alt="engbicir1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engbicir1" alt="engbicir1" /></a> </p>
