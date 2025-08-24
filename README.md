@@ -88,7 +88,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngBicir1&layout=compact&langs_count=8&hide_border=true&theme=rose_pine" width="300" />
 </div>
 
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophies</h2>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EngBicir1&theme=onedark&no-frame=true&margin-w=15&margin-h=15" />
+</div>
+<br>
 <!-- Social connections -->
 <div align="center">
 
