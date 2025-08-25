@@ -29,6 +29,8 @@
     <td align="center" valign="top">
       <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=EngBicir1&show_icons=true&count_private=true&hide_border=true&theme=rose_pine&cache_seconds=86400" width="420" />
     </td>
+<img alt="Streak" src="https://streak-stats.demolab.com?user=EngBicir1&theme=rose_pine&hide_border=true" width="420" />
+
   </tr>
 </table>
 
