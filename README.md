@@ -29,9 +29,6 @@
     <td align="center" valign="top">
       <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=EngBicir1&show_icons=true&count_private=true&hide_border=true&theme=rose_pine&cache_seconds=86400" width="420" />
     </td>
-    <td align="center" valign="top">
-      <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=EngBicir1&theme=rose_pine&hide_border=true&date_format=j%20M%5B%20Y%5D" width="420" />
-    </td>
   </tr>
 </table>
 
