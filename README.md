@@ -41,8 +41,15 @@
 
 <!-- Tech Stack -->
 <h3 align="center">🚀 Frameworks & Libraries</h3>
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,next,redux,angular,vue,bootstrap,tailwind,flutter,reactnative,django,spring,laravel,dotnet,nestjs,tensorflow,pytorch,express,nodejs&perline=8&theme=dark" />
+  <!-- Row 1 -->
+  <img src="https://skillicons.dev/icons?i=react,next,redux,angular,vue,bootstrap,tailwind,flutter,reactnative&theme=dark" />
+</p>
+
+<p align="center">
+  <!-- Row 2 -->
+  <img src="https://skillicons.dev/icons?i=django,spring,laravel,dotnet,nestjs,express,nodejs,tensorflow,pytorch&theme=dark" />
 </p>
 
 
