@@ -40,38 +40,15 @@
 </div>
 
 <!-- Tech Stack -->
-<h2 align="center">🛠️ Tech Stack Overview 🚀</h2>
-
-<table align="center">
+<table>
   <tr>
-    <!-- Languages -->
-    <td width="50%" valign="top" align="center">
-      <h3>📚 Languages</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,python,php,java,kotlin,swift,html,css&perline=6&theme=dark" />
-    </td>
-
-    <!-- Frameworks -->
-    <td width="50%" valign="top" align="center">
-      <h3>🚀 Frameworks</h3>
-      <img src="https://skillicons.dev/icons?i=react,next,redux,nodejs,express,flutter,django,spring,angular,vue&perline=6&theme=dark" />
-    </td>
-  </tr>
-
-  <tr>
-    <!-- Tools -->
-    <td width="50%" valign="top" align="center">
-      <h3>⚙️ Tools</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,androidstudio,postman,aws,mongodb,mysql,postgresql&perline=6&theme=dark" />
-    </td>
-
-    <!-- Most Used Languages -->
-    <td width="50%" valign="top" align="center">
-      <h3>📊 Most Used Languages</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngBicir1&layout=compact&langs_count=8&hide_border=true&theme=rose_pine" width="350" />
+    <!-- Tech Stack -->
+    <td width="100%" valign="top">
+      <h3>🛠️ Tech Stack</h3>
+      <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,nodejs,express,mongodb,mysql,html,css,tailwind,flutter,github,vscode,git&perline=12&theme=dark" />
     </td>
   </tr>
 </table>
-
 
 
 
