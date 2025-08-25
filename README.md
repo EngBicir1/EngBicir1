@@ -41,7 +41,7 @@
 
 <!-- Tech Stack -->
 <h3 align="center">🚀 Frameworks & Libraries</h3>
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=react,next,redux,angular,vue,bootstrap,tailwind,flutter,reactnative,django,spring,laravel,dotnet,nestjs,tensorflow,pytorch,express,nodejs&perline=8&theme=dark" />
 </p>
 
