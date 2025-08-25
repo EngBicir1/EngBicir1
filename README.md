@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I can’t code without coffee ☕**
 <br><br>
-<!-- 📊 GitHub Stats (Pink, aligned nicely) -->
+<!-- 📊 GitHub Stats (Pink, aligned nicely) y -->
 <h2 align="center">📊🚀 My GitHub Journey</h2>
 
 <div align="center">
