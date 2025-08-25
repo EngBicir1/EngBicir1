@@ -19,6 +19,7 @@
 - ⚡ Fun fact **I can’t code without coffee ☕**
 <br><br>
 <!-- 📊 GitHub Stats (Pink, aligned nicely) y -->
+<!-- 📊 GitHub Stats (Pink, aligned nicely) -->
 <h2 align="center">📊🚀 My GitHub Journey</h2>
 
 <div align="center">
@@ -26,22 +27,18 @@
 <table>
   <tr>
     <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=EngBicir1&show_icons=true&count_private=true&hide_border=true&theme=rose_pine" width="420" />
+      <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=EngBicir1&show_icons=true&count_private=true&hide_border=true&theme=rose_pine&cache_seconds=86400" width="420" />
     </td>
     <td align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=EngBicir1&theme=rose_pine&hide_border=true" width="420" />
+      <img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=EngBicir1&theme=rose_pine&hide_border=true&date_format=j%20M%5B%20Y%5D" width="420" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-
-
 </div>
 
-
-</p>
 <!-- Tech Stack -->
 <h2 align="center">🛠️💻 Languages & Frameworks 🚀🎯</h2>
 
