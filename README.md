@@ -43,7 +43,7 @@
 <table>
   <tr>
     <!-- Tech Stack -->
-    <td width="100%" valign="top">
+    <td  valign="top">
       <h3>🛠️ Tech Stack</h3>
       <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,nodejs,express,mongodb,mysql,html,css,tailwind,flutter,github,vscode,git&perline=12&theme=dark" />
     </td>
