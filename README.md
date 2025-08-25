@@ -47,16 +47,6 @@
       <h3>🛠️ Tech Stack</h3>
       <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,nodejs,express,mongodb,mysql,html,css,tailwind,flutter,github,vscode,git&perline=12&theme=dark" />
     </td>
-
-    <!-- Most Used Languages -->
-    <td width="35%" valign="top" align="center">
-      <h3>📚 Most Used Languages</h3>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngBicir1&layout=compact&langs_count=8&hide_border=true&theme=rose_pine" 
-        width="300" 
-        alt="Most Used Languages"
-      />
-    </td>
   </tr>
 </table>
 
