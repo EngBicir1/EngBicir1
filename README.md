@@ -40,15 +40,11 @@
 </div>
 
 <!-- Tech Stack -->
-<table>
-  <tr>
-    <!-- Tech Stack -->
-    <td width="200%" valign="top">
-      <h3>🛠️ Tech Stack</h3>
-      <img src="https://skillicons.dev/icons?i=js,ts,react,next,redux,nodejs,express,mongodb,mysql,html,css,tailwind,flutter,github,vscode,git&perline=12&theme=dark" />
-    </td>
-  </tr>
-</table>
+<h3 align="center">🚀 Frameworks & Libraries</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,redux,angular,vue,bootstrap,tailwind,flutter,reactnative,django,spring,laravel,dotnet,nestjs,tensorflow,pytorch,express,nodejs&perline=8&theme=dark" />
+</p>
+
 
 
 
