@@ -44,7 +44,6 @@
   </tr>
 </table>
 
-<br/>
 </div>
 <br>
 <!-- Tech Stack -->
@@ -60,7 +59,11 @@
   <img src="https://skillicons.dev/icons?i=django,spring,laravel,dotnet,nestjs,express,nodejs,tensorflow,pytorch&theme=dark" />
 </p>
 
-
+<!-- Visit Counter -->
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
 
 
 
