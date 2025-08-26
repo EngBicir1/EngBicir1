@@ -25,7 +25,9 @@
 - 📫 How to reach me: **yuusufmoharaage@gmail.com**
 
 - ⚡ Fun fact **I can’t code without coffee ☕**
-<br><br>
+<br>
+<br>
+<br>
 <!-- 📊 GitHub Stats (Pink, aligned nicely) -->
 <h2 align="center">📊🚀 My GitHub Journey</h2>
 
@@ -45,6 +47,9 @@
 <br/>
 
 </div>
+<br>
+<br>
+<br>
 
 <!-- Tech Stack -->
 <h3 align="center">🚀 Frameworks & Libraries</h3>
