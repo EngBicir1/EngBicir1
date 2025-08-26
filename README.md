@@ -30,9 +30,7 @@
 <br>
 <!-- 📊 GitHub Stats (Pink, aligned nicely) -->
 <h2 align="center">📊🚀 My GitHub Journey</h2>
-
 <div align="center">
-
 <table>
   <tr>
     <td align="left" valign="top">
@@ -43,9 +41,7 @@
 </td>
   </tr>
 </table>
-
 </div>
-<br>
 <!-- Tech Stack -->
 <h3 align="center">🚀 Frameworks & Libraries</h3>
 
@@ -53,7 +49,6 @@
   <!-- Row 1 -->
   <img src="https://skillicons.dev/icons?i=react,next,redux,angular,vue,bootstrap,tailwind,flutter,reactnative&theme=dark" />
 </p>
-
 <p align="center">
   <!-- Row 2 -->
   <img src="https://skillicons.dev/icons?i=django,spring,laravel,dotnet,nestjs,express,nodejs,tensorflow,pytorch&theme=dark" />
