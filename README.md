@@ -48,8 +48,6 @@
 
 </div>
 <br>
-<br>
-<br>
 
 <!-- Tech Stack -->
 <h3 align="center">🚀 Frameworks & Libraries</h3>
