@@ -54,7 +54,7 @@
   <img src="https://skillicons.dev/icons?i=django,spring,laravel,dotnet,nestjs,express,nodejs,tensorflow,pytorch&theme=dark" />
 </p>
 
-
+[![](https://visitcount.itsvg.in/api?id=EngBicir1&icon=10&color=6)](https://visitcount.itsvg.in)
 
 
 
