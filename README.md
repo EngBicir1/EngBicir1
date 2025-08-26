@@ -26,7 +26,6 @@
 
 - ⚡ Fun fact **I can’t code without coffee ☕**
 <br><br>
-<!-- 📊 GitHub Stats (Pink, aligned nicely) y -->
 <!-- 📊 GitHub Stats (Pink, aligned nicely) -->
 <h2 align="center">📊🚀 My GitHub Journey</h2>
 
@@ -60,13 +59,6 @@
   <img src="https://skillicons.dev/icons?i=django,spring,laravel,dotnet,nestjs,express,nodejs,tensorflow,pytorch&theme=dark" />
 </p>
 
-
-
-
-
-
-
-<!-- Social connections -->
 
 
 
