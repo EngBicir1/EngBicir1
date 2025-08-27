@@ -28,11 +28,19 @@
 <br>
 <br>
 <br>
-## 📊🚀 My GitHub Journey
-
-![Stats](https://github-readme-stats.vercel.app/api?username=EngBicir1&show_icons=true&count_private=true&hide_border=true&theme=rose_pine&v=1)
-
-![Streak](https://streak-stats.demolab.com?user=EngBicir1&theme=rose_pine&hide_border=true&v=2)
+<h2 align="center">📊🚀 My GitHub Journey</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top">
+        <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=EngBicir1&show_icons=true&count_private=true&hide_border=true&theme=rose_pine&v=1" width="420">
+      </td>
+      <td valign="top">
+        <img alt="Streak" src="https://streak-stats.demolab.com?user=EngBicir1&theme=rose_pine&hide_border=true&v=2" width="420">
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- Tech Stack -->
 <h3 align="center">🚀 Frameworks & Libraries</h3>
