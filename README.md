@@ -32,7 +32,7 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=EngBicir1&show_icons=true&count_private=true&hide_border=true&theme=rose_pine&v=1)
 
-![Streak](https://streak-stats.demolab.com?user=EngBicir1&theme=rose_pine&hide_border=true&v=1)
+![Streak](https://streak-stats.demolab.com?user=EngBicir1&theme=rose_pine&hide_border=true&v=2)
 
 <!-- Tech Stack -->
 <h3 align="center">🚀 Frameworks & Libraries</h3>
