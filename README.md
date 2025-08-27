@@ -43,7 +43,7 @@
       <td align="right" valign="top">
         <img 
           alt="Streak" 
-          src="https://streak-stats.demolab.com?user=EngBicir1&theme=rose_pine&hide_border=true" 
+          src="https://streak-stats.demolab.com?user=EngBicir1&theme=rose_pine&hide_border=true&date_format=j%20M%5B%20Y%5D" 
           width="420" 
         />
       </td>
