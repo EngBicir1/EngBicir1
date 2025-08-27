@@ -28,19 +28,27 @@
 <br>
 <br>
 <br>
-<!-- 📊 GitHub Stats (Pink, aligned nicely)t -->
+<!-- 📊 GitHub Stats (Pink, aligned nicely) -->
 <h2 align="center">📊🚀 My GitHub Journey</h2>
 <div align="center">
-<table>
-  <tr>
-    <td align="left" valign="top">
-      <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=EngBicir1&show_icons=true&count_private=true&hide_border=true&theme=rose_pine&cache_seconds=86400" width="420" />
-    </td>
-    <td align="rigth" valign="top">
-<img alt="Streak" src="https://streak-stats.demolab.com?user=EngBicir1&theme=rose_pine&hide_border=true" width="420" />
-</td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td align="left" valign="top">
+        <img 
+          alt="Stats" 
+          src="https://github-readme-stats.vercel.app/api?username=EngBicir1&show_icons=true&count_private=true&hide_border=true&theme=rose_pine&cache_seconds=86400" 
+          width="420" 
+        />
+      </td>
+      <td align="right" valign="top">
+        <img 
+          alt="Streak" 
+          src="https://streak-stats.demolab.com?user=EngBicir1&theme=rose_pine&hide_border=true" 
+          width="420" 
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 <!-- Tech Stack -->
 <h3 align="center">🚀 Frameworks & Libraries</h3>
