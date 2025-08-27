@@ -28,25 +28,27 @@
 <br>
 <br>
 <br>
-<!-- 📊 GitHub Stats (Pink, aligned nicely) -->
+<!-- 📊 GitHub Stats (Pink Theme) -->
 <h2 align="center">📊🚀 My GitHub Journey</h2>
-<!-- GitHub Stats -->
-<div align="left">
-  <img 
-    alt="Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=EngBicir1&show_icons=true&count_private=true&hide_border=true&theme=rose_pine" 
-    width="450" 
-  />
-</div>
-<br>
-
-<!-- GitHub Streak -->
 <div align="center">
-  <img 
-    alt="Streak" 
-    src="https://streak-stats.demolab.com?user=EngBicir1&theme=rose_pine&hide_border=true" 
-    width="450" 
-  />
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <img 
+          alt="Stats" 
+          src="https://github-readme-stats.vercel.app/api?username=EngBicir1&show_icons=true&count_private=true&hide_border=true&theme=rose_pine" 
+          width="420" 
+        />
+      </td>
+      <td align="center" valign="top">
+        <img 
+          alt="Streak" 
+          src="https://streak-stats.demolab.com?user=EngBicir1&theme=rose_pine&hide_border=true" 
+          width="420" 
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- Tech Stack -->
