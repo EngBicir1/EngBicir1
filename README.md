@@ -28,7 +28,7 @@
 <br>
 <br>
 <br>
-<!-- 📊 GitHub Stats (Pink, aligned nicely) -->
+<!-- 📊 GitHub Stats (Pink, aligned nicely)t -->
 <h2 align="center">📊🚀 My GitHub Journey</h2>
 <div align="center">
 <table>
