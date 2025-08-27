@@ -30,26 +30,15 @@
 <br>
 <!-- 📊 GitHub Stats (Pink, aligned nicely) -->
 <h2 align="center">📊🚀 My GitHub Journey</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td align="left" valign="top">
-        <img 
-          alt="Stats" 
-          src="https://github-readme-stats.vercel.app/api?username=EngBicir1&show_icons=true&count_private=true&hide_border=true&theme=rose_pine&cache_seconds=86400" 
-          width="420" 
-        />
-      </td>
-      <td align="right" valign="top">
-        <img 
-          alt="Streak" 
-          src="https://streak-stats.demolab.com?user=EngBicir1&theme=rose_pine&hide_border=true&date_format=j%20M%5B%20Y%5D" 
-          width="420" 
-        />
-      </td>
-    </tr>
-  </table>
+<!-- GitHub Stats -->
+<div align="left">
+  <img 
+    alt="Stats" 
+    src="https://github-readme-stats.vercel.app/api?username=EngBicir1&show_icons=true&count_private=true&hide_border=true&theme=rose_pine" 
+    width="450" 
+  />
 </div>
+
 <!-- Tech Stack -->
 <h3 align="center">🚀 Frameworks & Libraries</h3>
 
