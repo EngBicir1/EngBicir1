@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abdifatah Mohamed Yusuf (Bicir)</h1>
 <h3 align="center">Full-Stack (MERN) & Mobile Developer passionate about solving real problems</h3>
-<div align="center"> 
+<div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/engbicir.so1) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/engbicir1) 
