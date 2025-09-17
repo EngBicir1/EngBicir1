@@ -31,26 +31,20 @@
 
 <h2 align="center">📊🚀 My GitHub Journey</h2>
 <div align="center">
-
-  <!-- Container for both Stats and Streak -->
   <table>
     <tr>
-      <!-- Left: GitHub Stats -->
       <td valign="top">
         <img alt="GitHub Stats"
              src="https://github-readme-stats.vercel.app/api?username=EngBicir1&show_icons=true&count_private=true&hide_border=true&theme=rose_pine&v=4"
              width="420">
       </td>
-
-      <!-- Right: Streak + Total Contributions -->
       <td valign="top">
         <img alt="GitHub Streak"
-             src="https://streak-stats.demolab.com?user=EngBicir1&theme=rose_pine&hide_border=true&v=4"
+             src="https://streak-stats.demolab.com?user=EngBicir1&theme=rose_pine&hide_border=true&v=1"
              width="420">
       </td>
     </tr>
   </table>
-
 </div>
 
 
