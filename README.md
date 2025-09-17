@@ -33,14 +33,21 @@
   <table>
     <tr>
       <td valign="top">
-        <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=EngBicir1&show_icons=true&count_private=true&hide_border=true&theme=rose_pine&v=4" width="420">
+        <!-- GitHub Stats -->
+        <img alt="GitHub Stats" 
+             src="https://github-readme-stats.vercel.app/api?username=EngBicir1&show_icons=true&count_private=true&hide_border=true&theme=rose_pine&v=4" 
+             width="420">
       </td>
       <td valign="top">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=EngBicir1&theme=rose_pine&hide_border=true&v=1" width="420">
+        <!-- GitHub Streak -->
+        <img alt="GitHub Streak" 
+             src="https://github-readme-streak-stats.herokuapp.com/?user=EngBicir1&theme=rose_pine&hide_border=true&v=4" 
+             width="420">
       </td>
     </tr>
   </table>
 </div>
+
 
 <!-- Tech Stack -->
 <h3 align="center">🚀 Frameworks & Libraries</h3>
