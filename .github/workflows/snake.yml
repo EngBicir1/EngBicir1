@@ -1,9 +1,9 @@
 name: generate-snake
 
 on:
-  # Run automatically every 24 hours
+  # Run automatically every minute
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "* * * * *"
   # Allow running this workflow manually
   workflow_dispatch:
   # Run on every push to main branch
