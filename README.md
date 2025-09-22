@@ -55,4 +55,5 @@
 </p>
 
 <h2 align="center">📊🚀 All CONTRIBUTIONS </h2>
+
 ![Snake animation](https://github.com/EngBicir1/EngBicir1/blob/output/github-snake.svg)
