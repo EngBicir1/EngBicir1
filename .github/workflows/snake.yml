@@ -28,10 +28,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake.gif
-          # Snake red
-          color_snake: ff0000
-          # All dots same color (example: blue)
-          color_dots: 1e90ff
 
       # Push the generated files to the output branch
       - name: Push Snake files
