@@ -28,9 +28,10 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake.gif
-          # set colors here
-          color_snake: ff0000        # snake red
-          color_dots: 70b7ff,ffffff # repos (blue + white or same color)
+          # Snake color (red)
+          color_snake: ff0000
+          # All dots one color (blue for example)
+          color_dots: 1e90ff
 
       # Push the generated files to the output branch
       - name: Push Snake files
