@@ -1,6 +1,6 @@
 <img align="" height="250"  alt="Coding" src="/Assets/banner_bicir.gif">
 
-<h1 align="center">Hi 👋, I'm Abdifatah Mohamed Yusuf (Bicir)</h1>
+<h1 align="center">Hi 👋, I'm Abdifatah Mohamed Yusuf (Bicir)</h1> 
 <h3 align="center">Full-Stack (MERN) & Mobile Developer passionate about solving real problems</h3>
 <div align="center">
 
