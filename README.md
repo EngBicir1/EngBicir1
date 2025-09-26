@@ -26,6 +26,14 @@
 - ⚡ Fun fact **I can’t code without coffee ☕**
 <br>
 <br>
+<h2 align="center">📊🚀 My GitHub Journey</h2>
+<div align="center">
+  <table>
+    <tr>
+    </tr>
+  </table>
+</div>
+<br>
 <br>
 
 <h2 align="center">📊🚀 My GitHub Journey</h2>
