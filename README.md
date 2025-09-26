@@ -28,23 +28,19 @@
 <br>
 <br>
 
----
-
----
-
-## 🧩 Projects (Some of my work)
-
-<div align="center" style="margin: 20px 0;">
-
-  
-
-  <h3><a href="https://the-bicycle-shop-express.vercel.app/">demo ExpressJs</a></h3>
-  <p style="max-width:380px">
-   Enjoy .
-  </p>
+<h2 align="center">📊🚀 My GitHub Journey</h2>
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top">
+        <img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=engbicir1&show_icons=true&count_private=true&hide_border=true&theme=radical"  width="420">  
+      </td>
+      <td valign="top">
+        <img alt="Streak" src="https://streak-stats.demolab.com?user=EngBicir1&theme=radical&hide_border=true&v=3" width="420">
+      </td>
+    </tr>
+  </table>
 </div>
-
----
 
 <!-- Tech Stack -->
 <h3 align="center">🚀 Frameworks & Libraries</h3>
