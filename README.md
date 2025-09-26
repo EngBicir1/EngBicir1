@@ -29,8 +29,7 @@
 <h2 align="center">🚀🧩 My-Projects</h2>
 <div align="left">
   <table>
-    <tr>
-      
+    <tr> 
     </tr>
   </table>
 </div>
