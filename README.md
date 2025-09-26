@@ -46,7 +46,6 @@
         <a href="https://the-bicycle-shop-express.vercel.app/" target="_blank">Live</a>
       </p>
     </td>
-
     <!-- Project 2 (example, edit with your link) -->
     <td align="center" style="padding:10px;">
       <a href="https://example-project.vercel.app/" target="_blank">
