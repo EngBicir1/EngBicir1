@@ -30,32 +30,29 @@
 
 ---
 
+---
+
 ## 🧩 Projects (Some of my work)
 
 <div align="center">
-<table>
-  <tr>
-    <!-- Project Slot 1 -->
-    <td align="center" width="320" height="220" style="padding:15px; border:1px dashed #ccc; border-radius:12px;">
-      <em>Project 1</em>
-    </td>
-    <!-- Project Slot 2 -->
-    <td align="center" width="320" height="220" style="padding:15px; border:1px dashed #ccc; border-radius:12px;">
-      <em>Project 2</em>
-    </td>
-  </tr>
-  <tr>
-    <!-- Project Slot 3 -->
-    <td align="center" width="320" height="220" style="padding:15px; border:1px dashed #ccc; border-radius:12px;">
-      <em>Project 3</em>
-    </td>
-    <!-- Project Slot 4 -->
-    <td align="center" width="320" height="220" style="padding:15px; border:1px dashed #ccc; border-radius:12px;">
-      <em>Project 4</em>
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td align="center" width="420" style="padding:15px; border:1px dashed #ccc; border-radius:12px;">
+        <a href="#" target="_blank">
+          <img src="https://via.placeholder.com/400x200.png?text=Project+Preview" alt="Project Preview" width="400" style="border-radius:12px; margin-bottom:10px;" />
+        </a>
+        <h3><a href="#">Project Title</a></h3>
+        <p style="max-width:380px">Short description about the project goes here. You can write features, tech stack, or what problem it solves.</p>
+        <p>
+          <a href="#" target="_blank">🔗 Live</a> · 
+          <a href="#" target="_blank">💻 Code</a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
+---
 <!-- Tech Stack -->
 <h3 align="center">🚀 Frameworks & Libraries</h3>
 
