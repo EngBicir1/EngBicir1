@@ -36,25 +36,8 @@
 <table>
   <tr>
     <!-- Project 1 -->
-    <td align="center" style="padding:10px;">
-      <a href="https://the-bicycle-shop-express.vercel.app/" target="_blank">
-        <img src="/Assets/banner_bicir.gif" alt="The Bicycle Shop" width="320" style="border-radius:12px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
-      </a>
-      <h3><a href="https://the-bicycle-shop-express.vercel.app/" target="_blank">The Bicycle Shop (Express)</a></h3>
-      <p style="max-width:320px">MERN + Express demo e-commerce site — simple product listing, cart and checkout flow. Deployed on Vercel.</p>
-      <p>
-        <a href="https://the-bicycle-shop-express.vercel.app/" target="_blank">Live</a>
-      </p>
     </td>
     <!-- Project 2 (example, edit with your link) -->
-    <td align="center" style="padding:10px;">
-      <a href="https://example-project.vercel.app/" target="_blank">
-        <img src="https://via.placeholder.com/320x180.png?text=Project+2" alt="Project 2" width="320" style="border-radius:12px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
-      </a>
-      <h3><a href="https://example-project.vercel.app/" target="_blank">Project Two (Mobile)</a></h3>
-      <p style="max-width:320px">Short description: Mobile app built with Flutter, authentication and Firebase backend.</p>
-      <p>
-        <a href="https://example-project.vercel.app/" target="_blank">Live</a>
       </p>
     </td>
   </tr>
