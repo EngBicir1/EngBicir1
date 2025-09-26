@@ -26,11 +26,11 @@
 - ⚡ Fun fact **I can’t code without coffee ☕**
 <br>
 <br>
-<h2 align="center">📊🚀 🧩 My-Projects</h2>
+<h2 align="center">🚀🧩 My-Projects</h2>
 <div align="left">
   <table>
     <tr>
-      <h3>🚀Welcome to my GitHub space—a playground of ideas, code, and creativity! Here, every project tells a story of learning, experimenting, and building something new. From polished applications to small fun scripts, each repository reflects curiosity, problem-solving, and growth. I love exploring different technologies, combining them to create projects that are functional, clean, and enjoyable. This is not just code; it’s my journey, my experiments, and my passion for development. Browse, explore, and enjoy—each project is a piece of creativity waiting to inspire, teach, or spark a new idea.</h3>
+      <h3>Comming zoon All projects</h3>
     </tr>
   </table>
 </div>
