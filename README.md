@@ -30,7 +30,7 @@
 <div align="left">
   <table>
     <tr>
-      <h3>Comming zoon All projects</h3>
+      
     </tr>
   </table>
 </div>
