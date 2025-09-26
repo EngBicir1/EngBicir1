@@ -29,7 +29,7 @@
 <h2 align="center">📊🚀 🧩 My-Projects</h2>
 <div align="center">
   <table>
-    <tr>.
+    <tr align="left">
       <h3>🚀 Enjoy the ride through my creative projects!</h3>
     </tr>
   </table>
