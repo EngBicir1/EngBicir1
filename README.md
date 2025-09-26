@@ -34,25 +34,30 @@
 
 ## 🧩 Projects (Some of my work)
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="420" style="padding:15px; border:1px dashed #ccc; border-radius:12px;">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/400x200.png?text=Project+Preview" alt="Project Preview" width="400" style="border-radius:12px; margin-bottom:10px;" />
-        </a>
-        <h3><a href="#">Project Title</a></h3>
-        <p style="max-width:380px">Short description about the project goes here. You can write features, tech stack, or what problem it solves.</p>
-        <p>
-          <a href="#" target="_blank">🔗 Live</a> · 
-          <a href="#" target="_blank">💻 Code</a>
-        </p>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="margin: 20px 0;">
+
+  <a href="#" target="_blank">
+    <img src="https://via.placeholder.com/400x200.png?text=Project+Preview" 
+         alt="Project Preview" 
+         width="400" 
+         style="border-radius:12px; margin-bottom:10px; box-shadow: 0 6px 18px rgba(0,0,0,0.12);" />
+  </a>
+
+  <h3><a href="#">Project Title</a></h3>
+  <p style="max-width:380px">
+    Short description about the project goes here.  
+    You can write features, tech stack, or what problem it solves.
+  </p>
+
+  <p>
+    <a href="#" target="_blank">🔗 Live</a> · 
+    <a href="#" target="_blank">💻 Code</a>
+  </p>
+
 </div>
 
 ---
+
 <!-- Tech Stack -->
 <h3 align="center">🚀 Frameworks & Libraries</h3>
 
