@@ -49,7 +49,14 @@
     </tr>
   </table>
 </div>
-
+<br>
+<br>
+<!-- 🏆 GitHub Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=engbicir1&theme=tokyonight&row=1" alt="Trophies" />
+</div>
+<br>
+<br>
 <!-- Tech Stack -->
 <h3 align="center">🚀 Frameworks & Libraries</h3>
 
