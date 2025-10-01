@@ -1,5 +1,3 @@
-[![committers.top badge](https://user-badge.committers.top/somalia_public/EngBicir1.svg)](https://user-badge.committers.top/somalia_public/EngBicir1)
-
 <img align="" height="250"  alt="Coding" src="/Assets/banner_bicir.gif">
 
 <h1 align="center">Hi 👋, I'm Abdifatah Mohamed Yusuf (Bicir)</h1> 
@@ -14,6 +12,7 @@
 </div>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+[![committers.top badge](https://user-badge.committers.top/somalia_public/EngBicir1.svg)](https://user-badge.committers.top/somalia_public/EngBicir1)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engbicir1&label=Profile%20views&color=0e75b6&style=flat" alt="engbicir1" /> </p>
 
