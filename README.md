@@ -61,7 +61,7 @@
 </p>
 <p align="center">
   <!-- Row 2 -->
-  <img src="https://skillicons.dev/icons?i=django,spring,laravel,dotnet,nestjs,express,nodejs,tensorflow,pytorch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=django,spring,laravel,dotnet,nestjs,express,nodejs,tensorflow,pytorch&theme=dark"/>
 </p>
 
   <h2 align="center">📊🚀 All CONTRIBUTIONS </h2>
