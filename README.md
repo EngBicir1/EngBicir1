@@ -4,16 +4,15 @@
 <h3 align="center">Full-Stack (MERN) & Mobile Developer passionate about solving real problems</h3>
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/engbicir.so1) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/engbicir1) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://so.linkedin.com/in/abdifitaah-mohamed-59b6052b9) 
-[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/engabdifitah23) 
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://fb.com/bicir.so1)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bicir1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://so.linkedin.com/in/abdifitaah-mohamed-59b6052b9)
+[![X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/engabdifitah23)
 
 </div>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=engbicir1&label=Profile%20views&color=0e75b6&style=flat" alt="engbicir1" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bicir1&label=Profile%20views&color=0e75b6&style=flat" alt="Bicir1" /> </p>
 
 - 🔭 I’m currently working on **MERN Stack & Mobile App Projects**
 
@@ -42,19 +41,19 @@
     <tr>
        <td valign="top">
       <img alt="Stats" 
-       src="https://github-readme-stats.vercel.app/api?username=engbicir1&show_icons=true&count_private=true&hide_border=true&theme=radical&cache_seconds=3600"  
+       src="https://github-readme-stats.vercel.app/api?username=Bicir1&show_icons=true&count_private=true&hide_border=true&theme=radical&cache_seconds=3600"  
        width="420"> 
        </td>
       </td>
       <td valign="top">
-        <img alt="Streak" src="https://streak-stats.demolab.com?user=EngBicir1&theme=radical&hide_border=true&v=3" width="420">
+        <img alt="Streak" src="https://streak-stats.demolab.com?user=Bicir1&theme=radical&hide_border=true&v=3" width="420">
       </td>
     </tr>
   </table>
 </div>
 <h3 align="center">🏆 GitHub Trophies</h3>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=engbicir1&theme=tokyonight&row=1" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Bicir1&theme=tokyonight&row=1" alt="Trophies" />
 </div>
 <!-- Tech Stack -->
 <h3 align="center">🚀 Frameworks & Libraries</h3>
@@ -70,4 +69,4 @@
 
   <h2 align="center">📊🚀 All CONTRIBUTIONS </h2>
 
-![Snake animation](https://github.com/EngBicir1/EngBicir1/blob/output/github-snake.svg)
+![Snake animation](https://github.com/Bicir1/Bicir1/blob/output/github-snake.svg)
