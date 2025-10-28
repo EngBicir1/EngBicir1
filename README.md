@@ -44,8 +44,8 @@
        src="https://github-readme-stats.vercel.app/api?username=Bicir1&show_icons=true&count_private=true&hide_border=true&theme=radical&cache_seconds=3600"  
        width="420"> 
        </td>
-      <td valign="top">
-        <img alt="Bicir GitHub Streak" src="https://streak-stats.demolab.com?user=Bicir1&theme=tokyonight&hide_border=false&date_format=M%20j%5B,%20Y%5D" width="420">
+       <td valign="top">
+        <img alt="Streak" src="https://streak-stats.demolab.com?user=Bicir1&theme=radical&hide_border=true&v=3" width="420">
       </td>
 
     </tr>
