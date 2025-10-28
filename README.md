@@ -45,7 +45,7 @@
        width="420"> 
        </td>
       <td valign="top">
-        <img alt="Streak" src="https://streak-stats.demolab.com?user=Bicir1&theme=radical&hide_border=true&v=3" width="420">
+        <img alt="Streak" src="https://streak-stats.demolab.com?user=Bicir1&theme=radical&hide_border=true&v=4" width="420">
       </td>
     </tr>
   </table>
