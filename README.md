@@ -1,6 +1,6 @@
 <img align="" height="250"  alt="Coding" src="/Assets/banner_bicir.gif">
 
-<h1 align="center">Hi 👋, I'm Bicir1</h1> 
+<h1 align="center">Hi 👋, I'm Abdifatah Mohamed Yusuf (Bicir)</h1> 
 <h3 align="center">Full-Stack (MERN) & Mobile Developer passionate about solving real problems</h3>
 <div align="center">
 
@@ -44,10 +44,10 @@
        src="https://github-readme-stats.vercel.app/api?username=Bicir1&show_icons=true&count_private=true&hide_border=true&theme=radical&cache_seconds=3600"  
        width="420"> 
        </td>
-       <td valign="top">
+      </td>
+      <td valign="top">
         <img alt="Streak" src="https://streak-stats.demolab.com?user=Bicir1&theme=radical&hide_border=true&v=3" width="420">
       </td>
-
     </tr>
   </table>
 </div>
@@ -67,6 +67,6 @@
   <img src="https://skillicons.dev/icons?i=django,spring,laravel,dotnet,nestjs,express,nodejs,tensorflow,pytorch&theme=dark"/>
 </p>
 
-<h2 align="center">📊🚀 All CONTRIBUTIONS </h2>
+  <h2 align="center">📊🚀 All CONTRIBUTIONS </h2>
 
 ![Snake animation](https://github.com/Bicir1/Bicir1/blob/output/github-snake.svg)
